@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "As the Walls of the Web Close in"
-date:   2022-02-18
+date: 2022-02-18
 categories: search, list
 permalink: /posts/As-the-Walls-of-the-Web-Close-in/
 ---
