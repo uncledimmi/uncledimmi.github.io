@@ -2,8 +2,9 @@
 layout: post
 title: "As the Walls of the Web Close in"
 date: 2022-02-18
-categories: search, list
+categories: search
 permalink: /posts/As-the-Walls-of-the-Web-Close-in/
+
 ---
 I'm not the first to notice Google search results getting worse and worse. I'm not the only one to try alternatives without luck. I can't be the only one who feels like the garage door of the internet is slowly closing and if we don't all decide to roll under it now, we're going to get cut off from the wider web.
 
@@ -28,6 +29,7 @@ Here are some of the topics I want to cover sometime soon:
 - Alibi
 - Alchemy's Transition to Chemistry
 - D
+- Modern Electric Necromancy
 
 This has been your Uncle Dimmi. 
 I love you.
